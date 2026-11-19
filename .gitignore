@@ -1,0 +1,17 @@
+# virtual environment
+.venv/
+venv/
+
+# raw data (large - download from UCI instead, see README)
+Online Retail.xlsx
+online_retail_raw.csv
+
+# generated outputs
+customer_rfm_segments.csv
+product_rfm_segments.csv
+association_rules.csv
+
+# notebook / python caches
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
