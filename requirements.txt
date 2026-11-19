@@ -1,0 +1,14 @@
+ucimlrepo
+pandas
+numpy
+scipy
+scikit-learn
+plotly
+nbformat
+ipython
+streamlit>=1.40
+pandas>=2.0
+numpy
+plotly>=5.20
+mlxtend>=0.23
+openpyxl
